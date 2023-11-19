@@ -1,3 +1,4 @@
 - https://slint.dev/blog/rust-and-cpp
 - https://firefox-source-docs.mozilla.org/writing-rust-code/cpp-interop.html
+  - https://crisal.io/words/2020/02/28/C++-rust-ffi-patterns-1-complex-data-structures.html
 - https://eshard.com/posts/Rust-Cxx-interop
