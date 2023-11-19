@@ -1,1 +1,2 @@
-https://slint.dev/blog/rust-and-cpp
+- https://slint.dev/blog/rust-and-cpp
+- https://firefox-source-docs.mozilla.org/writing-rust-code/cpp-interop.html
