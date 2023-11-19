@@ -1,0 +1,1 @@
+- [Don't Worry, C and Rust Can FINALLY Coexist (Here's How) | Embedded Rust and C on the RP2040 Pi Pico](https://youtu.be/zSWkrpu8KBA)
